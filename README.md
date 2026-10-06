@@ -31,7 +31,7 @@ website/
 - **LeetCode**: [leetcode.com/u/Bhavasudhan](https://leetcode.com/u/Bhavasudhan/)  
 - **HackerRank**: [hackerrank.com/profile/bhavasudhan1300](https://www.hackerrank.com/profile/bhavasudhan1300)  
 - **LinkedIn**: [linkedin.com/in/bhavasudhan-s-04a741384](https://www.linkedin.com/in/bhavasudhan-s-04a741384)  
-- **Instagram**: [instagram.com/___bhavasudhan_](https://www.instagram.com/___bhavasudhan_/)  
+
 
 ---
 
